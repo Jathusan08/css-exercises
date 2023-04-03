@@ -1,0 +1,28 @@
+.FirstOdd,
+.SecondOdd,
+.ThirdOdd {
+
+  background-color: #FFCCCB;
+  color: #000000;
+  font-family: Verdana, "DejaVu Sans", sans-serif;
+
+}
+
+
+.FirstEven {
+  color: #0000FF;
+  font-size: 36px;
+}
+
+
+#SecondEven {
+
+  background-color: #90EE90;
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.SecondOdd {
+  font-size: 24px;
+
+}
